@@ -1,0 +1,6 @@
+/out/
+/.vs/
+/bin/
+/cmake-build-debug/
+/cmake-build-release/
+/.idea/
